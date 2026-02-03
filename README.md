@@ -18,7 +18,6 @@ Substitua os links de GIF/IMG pelos seus (ou por assets/ do repositório).
 <!-- HERO: confete real life / retro / minimal -->
 <p>
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="real confetti" width="260" style="margin-right:10px"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="retro pixel coding" width="220" style="margin-right:10px"/>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="minimal looping line art" width="220"/>
 </p>
 
