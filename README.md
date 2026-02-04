@@ -1,7 +1,7 @@
 <div align="center">
 
 # Douglas D. Souza
-### AI Engineering Strategy | MLOps Architect | Full Stack Engineer
+### VP of AI Engineering & Strategy | MLOps Architect | Full Stack Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-d-souza/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.ultimatesouza@gmail.com)
@@ -9,70 +9,62 @@
 <br />
 
 <p align="center">
-  <b>"Engenharia é a arte de equilibrar precisão matemática, segurança cibernética e arquitetura escalável."</b>
+  <b>"Construindo a ponte entre a pesquisa avançada em IA e sistemas de produção industrial seguros, observáveis e escaláveis."</b>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Perfil Profissional
+## 👨‍💻 Visão & Engenharia
 
-Minha atuação foca na convergência entre **Pesquisa em IA** e **Sistemas de Produção Críticos**. Meus projetos não entregam apenas modelos, mas ecossistemas completos de inferência, observabilidade e governança de dados, construídos sobre pilares de **Security-by-Design** e **Arquitetura Hexagonal**.
+Minha atuação foca na convergência entre **Pesquisa em IA** e **Sistemas de Produção Críticos**. Não entrego apenas modelos; projeto ecossistemas completos de inferência, observabilidade e governança de dados, alicerçados em **Security-by-Design** e **Arquitetura Hexagonal**.
 
-No **Project Vitruviano**, demonstro como orquestrar pipelines de *Deep Learning* (Visão Computacional Médica) com backends de alta performance em *Bun* e *Rust*, garantindo auditabilidade e compliance em nível corporativo.
+No meu trabalho recente, combino o rigor matemático do *Deep Learning* com a performance de linguagens de sistema como **Rust** e *runtimes* modernos como **Bun**.
 
 ---
 
-## 🏛️ Engenharia & Stack Tecnológica
+## 🛠️ Stack Tecnológica
 
-Baseado na análise profunda dos meus repositórios, esta é a stack de produção que utilizo:
+<div align="center">
+  <p><i>Arquitetura de Alta Performance • Telemetria Distribuída • Engenharia Híbrida</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,bun,react,nextjs,docker,grafana,kafka,redis,postgres,linux&perline=12&theme=dark" />
+  </a>
+</div>
+
+<br/>
 
 ### 🧠 AI & Data Science Core
 * **Deep Learning:** PyTorch, AutoGluon, TorchVision (ResNet, DenseNet).
-* **Explainability (XAI):** GradCAM, Heatmap Generation para diagnósticos médicos.
-* **Model Reliability:** Calibração de Probabilidade (Temperature Scaling), Análise de Incerteza (ECE).
-* **Training Loops:** Callbacks customizados, Checkpointing atômico, Mixed Precision Training.
+* **Confiabilidade:** Calibração de Probabilidade (Temperature Scaling) e Análise de Incerteza (ECE).
+* **XAI:** GradCAM e geração de Heatmaps para diagnósticos médicos.
 
-### 🛡️ SecOps & Alta Performance
-* **Systems Programming:** Integração Híbrida **Python/Rust** (via `pyo3`/`maturin`) para criptografia e hot-paths.
-* **Security:** Criptografia de ponta a ponta, Auditoria de Integridade (Hashing), Scanners de Vulnerabilidade (Bandit).
-* **Runtime:** **Bun** (para microsserviços de telemetria de baixa latência).
+### 🛡️ SecOps & Systems
+* **Híbrido:** Integração **Python/Rust** (via `pyo3`) para criptografia crítica e *hot-paths*.
+* **Segurança:** Criptografia ponta a ponta, Auditoria de Integridade e *Hardening*.
+* **Runtime:** **Bun** para gateways de telemetria de ultra-baixa latência.
 
-### 🏗️ Arquitetura de Software & MLOps
-* **Design Patterns:** Domain-Driven Design (DDD), Arquitetura Hexagonal (Ports & Adapters).
-* **Data Engineering:** ClickHouse (OLAP), Kafka (Streaming), Redis (Caching).
-* **Observabilidade:** Telemetria Unificada (Traces/Metrics), Grafana, Prometheus.
-* **Infraestrutura:** Docker (Multi-stage builds), GitHub Actions (CI/CD pipelines de segurança e linting).
-
-### 💻 Full Stack Interface
-* **Frontend:** Next.js (App Router), React, TypeScript (Strict Mode).
-* **UI/UX:** TailwindCSS, Componentes Acessíveis, Design Responsivo.
-* **Type Safety:** Validação de Schema rigorosa com **Zod**.
+### 🏗️ Arquitetura & Infra
+* **Padrões:** Domain-Driven Design (DDD) e Arquitetura Hexagonal.
+* **Dados:** ClickHouse (Analytics em tempo real), Kafka (Streaming), Redis.
+* **Observabilidade:** Grafana, Prometheus e Tracing distribuído.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
 ### [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
-*Uma plataforma de nível empresarial para Telemetria de IA e Governança de Modelos.*
+*Plataforma Enterprise de Telemetria de IA e Governança de Modelos.*
 
-Este repositório é um *monorepo* que exemplifica minha abordagem de engenharia:
-1.  **Gateway de Telemetria:** Microsserviço em Bun/TypeScript processando ingestão de dados em tempo real.
-2.  **Pipeline de Treinamento:** Framework modular em Python para classificação de Raio-X (NIH ChestX-ray) com foco em métricas de calibração.
-3.  **Dashboard de Governança:** Interface Next.js para visualização de *Model Drift* e Saúde Semântica.
-
----
-
-## 📊 Métricas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-</div>
+Um *monorepo* que materializa minha filosofia de engenharia:
+1.  **Gateway de Telemetria:** Microsserviço em **Bun/TypeScript** processando ingestão massiva.
+2.  **Motor de Inferência:** Pipeline modular em **Python/PyTorch** para classificação médica (NIH ChestX-ray).
+3.  **Segurança Híbrida:** Módulos de criptografia de alta performance escritos em **Rust**.
+4.  **Governança:** Dashboards em **Next.js** para monitoramento de *Model Drift* e Saúde Semântica.
 
 ---
 
 <div align="center">
-  <sub>Configuração mantida com <b>Infrastructure as Code</b> e padrões <b>SemVer</b>.</sub>
+  <sub>Configuração gerenciada via <b>Infrastructure as Code</b>. Perfil atualizado automaticamente.</sub>
 </div>
