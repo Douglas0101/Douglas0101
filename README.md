@@ -30,7 +30,6 @@ Minha atuação foca na convergência crítica entre **Pesquisa em IA** e **Sist
 Atualmente, lidero estratégias técnicas onde o rigor matemático do *Deep Learning* encontra a performance "bare-metal" de linguagens como **Rust** e runtimes como **Bun**.
 
 ---
-
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -59,7 +58,6 @@ Atualmente, lidero estratégias técnicas onde o rigor matemático do *Deep Lear
 * **Observabilidade:** Grafana, Prometheus e Tracing distribuído.
 
 ---
-
 ## 🚀 Projeto em Destaque
 
 ### [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
@@ -72,25 +70,30 @@ Um *monorepo* que materializa minha filosofia de engenharia avançada:
 4.  **Governança:** Dashboards em **Next.js** para monitoramento de *Model Drift* e Saúde Semântica.
 
 ---
-
 ## 📊 Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Douglas0101&theme=dark&hide_border=true&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="GitHub Streak" />
+<!-- Streak: alternativa para evitar problemas de DNS/proxy -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Douglas0101&theme=dark&hide_border=true&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="GitHub Streak" />
 
 <br/><br/>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745&text_color=FFFFFF&include_all_commits=false&count_private=false" alt="Github Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF&langs_count=8" alt="Top Langs" />
+  <!-- GitHub stats -->
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745&text_color=FFFFFF&include_all_commits=false&count_private=false"
+       alt="Github Stats" />
+
+  <!-- Top langs -->
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglas0101&layout=compact&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF&langs_count=8"
+       alt="Top Langs" />
 </div>
 
 </div>
 
 ---
-
 <div align="center">
   <sub>Configuração mantida com padrões de <b>Engenharia de Confiabilidade</b>.</sub>
 </div>
