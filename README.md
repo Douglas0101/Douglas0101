@@ -2,7 +2,7 @@
 
 # Douglas D. Souza
 
-### VP of AI Engineering & Strategy | MLOps Architect | Full Stack Engineer
+### AI Engineering & Strategy | MLOps Architect | Full Stack Engineer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=520&lines=Building+Robust+AI+Systems;Architecting+Scalable+MLOps;Crafting+High-Performance+Rust+Code;Bridging+Research+and+Production" alt="Typing SVG" />
