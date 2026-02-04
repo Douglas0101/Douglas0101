@@ -4,9 +4,7 @@
 
 ### VP of AI Engineering & Strategy | MLOps Architect | Full Stack Engineer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=500&lines=Building+Robust+AI+Systems;Architecting+Scalable+MLOps;Crafting+High-Performance+Rust+Code;Deploying+Secure+Industrial+Solutions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=520&lines=Architecting+Industrial+AI+Systems;Building+High-Performance+Rust+Backends;Deploying+Secure+MLOps+Pipelines;Bridging+Research+and+Production" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +29,7 @@ Atualmente, lidero estratégias técnicas onde o rigor matemático do *Deep Lear
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stack Tecnológica
 
 <div align="center">
   
@@ -61,8 +59,9 @@ Atualmente, lidero estratégias técnicas onde o rigor matemático do *Deep Lear
 
 ---
 
-## 🚀 Projeto em Destaque: [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
+## 🚀 Projeto em Destaque
 
+### [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
 *Plataforma Enterprise de Telemetria de IA e Governança de Modelos.*
 
 Um *monorepo* que materializa minha filosofia de engenharia avançada:
@@ -73,21 +72,24 @@ Um *monorepo* que materializa minha filosofia de engenharia avançada:
 
 ---
 
-## 📊 Analytics em Tempo Real
+## 📊 Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas0101&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="Douglas Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas0101&theme=dark&hide_border=true&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="Douglas Streak" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745&text_color=FFFFFF" alt="Github Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF&langs_count=8" alt="Top Langs" />
+</div>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Configuração gerenciada via <b>Infrastructure as Code</b>. Perfil atualizado automaticamente.</sub>
+  <sub>Configuração mantida com padrões de <b>Engenharia de Confiabilidade</b>.</sub>
 </div>
