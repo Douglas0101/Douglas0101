@@ -1,133 +1,90 @@
-<!--
-README animado e diversificado - Perfil GitHub
-Dica: crie um repositório com o MESMO nome do seu usuário (ex: douglasdias.souza) e coloque este README.md nele.
-Substitua os links de GIF/IMG pelos seus (ou por assets/ do repositório).
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZWN4OG15Mm14Z214OW14Z214OW14Z214OW14Z214OW14ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWs1f7748Q0uY/giphy.gif" width="100%" height="250px" style="object-fit: cover;" alt="Data Stream Header">
+</div>
 
-# Olá, eu sou Douglas Souza 👋
+<div align="center">
+  <h1 style="font-size: 2.5rem; font-weight: bold; margin-top: 0px;">Douglas | AI Engineering & Architecture</h1>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_PERFIL">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:SEU_EMAIL@exemplo.com">
+      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
 
-<p>
-  <img src="https://media.giphy.com/media/3oEduK5z3rK3l0pG0U/giphy.gif" alt="confetti celebration" width="240" style="vertical-align:middle;"/>
-  <span style="font-size:1.1rem; margin-left:12px">Desenvolvedor full-stack — <em>código + banco + deploy</em> — com gosto por soluções elegantes e divertidas.</span>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Architecting+High-Performance+ML+Pipelines;Bridging+Industrial+Automation+&+AI;Rust+%2B+Python+Interoperability;Critical+Systems+Reliability" alt="Typing SVG" />
+</div>
+
+<br />
+
+### ⚡ Executive Summary
+
+Engenheiro focado na convergência entre **Hardware Industrial (OT)** e **Inteligência Artificial (IT)**. Minha expertise reside na construção de sistemas resilientes onde a falha não é uma opção. 
+
+Atualmente, estou arquitetando soluções que migram a lógica rígida da automação industrial para a flexibilidade cognitiva do Deep Learning, utilizando **Rust** para garantir *memory safety* e **Python** para orquestração de modelos avançados. O objetivo final é aplicar esta tecnologia em cenários de alta complexidade nos Estados Unidos (Atlanta, GA).
 
 ---
 
-## ✨ Boas-vindas animadas (estilos variados)
+### 🏛️ Engineering Stack & Arsenal
 
-<!-- HERO: confete real life / retro / minimal -->
-<p>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="real confetti" width="260" style="margin-right:10px"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="minimal looping line art" width="220"/>
-</p>
+Minha stack é escolhida com base em três pilares: **Performance, Tipagem Estática e Escalabilidade**.
 
-> Aqui tem projetos, estudos, experimentos e — claro — GIFs aleatórios que fazem sentido só às 2h da manhã 😄
+| Camada | Tecnologias Principais | Foco de Aplicação |
+| :--- | :--- | :--- |
+| **🧠 AI Core** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![AutoGluon](https://img.shields.io/badge/-AutoGluon-3B71CC?logo=python&logoColor=white) | Model Lineage, Calibration Pipelines (ECE), GradCAM Interpretability. |
+| **⚙️ Backend** | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Microservices, FFI Bindings, GRPC, Hexagonal Architecture. |
+| **💾 Data & Ingest** | ![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?logo=clickhouse&logoColor=black) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) | High-Throughput Telemetry, OLAP Queries, Event Sourcing. |
+| **🛡️ Ops & Sec** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Bandit](https://img.shields.io/badge/-Security-4B0082?logo=guarani&logoColor=white) | Vulnerability Scanning, CI/CD Optimization, Container Orchestration. |
+| **🖥️ Interface** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | Real-time Dashboards, Semantic Visualization. |
 
 ---
 
-## 🚀 O que você vai encontrar por aqui
+### 🔬 Featured Architecture: **Project Vitruviano**
 
-<div style="display:flex; gap:18px; flex-wrap:wrap;">
-  <div>
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="rocket deploy" width="140"/>
-    <p style="text-align:center"><strong>Projetos completos</strong><br/><small>API → DB → Deploy</small></p>
-  </div>
+<div align="left">
+  <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzR6Znk1Z256Znk1Z256Znk1Z256Znk1Z256Znk1Z256Znk1Z256ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UouuOU8vxFqzm/giphy.gif" alt="Neural Network Animation" style="border-radius: 10px;">
 
-  <div>
-    <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="lightbulb idea" width="140"/>
-    <p style="text-align:center"><strong>Estudos & POCs</strong><br/><small>Algoritmos, patterns</small></p>
-  </div>
+  > *Uma plataforma de telemetria de nova geração que funde análise preditiva com rigor industrial.*
 
-  <div>
-    <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="pixel database" width="140"/>
-    <p style="text-align:center"><strong>DB na prática</strong><br/><small>Modelagem & tuning</small></p>
-  </div>
+  O **Vitruviano** não é apenas um dashboard; é um ecossistema de *Inference-as-a-Service* projetado para ambientes críticos.
+  
+  **Destaques Técnicos:**
+  * **Hybrid Runtime:** Core crítico reescrito em **Rust** para eliminar *Garbage Collection pauses* durante a ingestão de dados.
+  * **Semantic Integrity:** Implementação de pipelines de validação de dados usando `Pydantic` e `zod` para garantir tipagem forte ponta-a-ponta.
+  * **AI Reliability:** Módulos de calibração de probabilidade (Isotonic Regression) para garantir que a confiança do modelo reflita a realidade.
+  * **Security First:** Auditoria automatizada de dependências e criptografia de dados em repouso.
+</div>
 
-  <div>
-    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="automation gears" width="140"/>
-    <p style="text-align:center"><strong>Automação</strong><br/><small>CI/CD, scripts</small></p>
-  </div>
+<br clear="right"/>
+
+---
+
+### 📊 GitHub Metrics
+
+<div align="center">
+  <table style="border: none; background-color: transparent;">
+    <tr>
+      <td style="border: none;">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-owl&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td style="border: none;">
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=midnight-owl&hide_border=true&exclude_repo=metrics" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🧠 Principais competências (com estilo)
+### 🧩 Engineering Philosophy
 
-### Desenvolvimento
-- APIs REST/GraphQL • Auth/JWT/OAuth • Observabilidade  
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="api flow" width="120" style="vertical-align:middle;"/>
-- Clean Code • SOLID • Testes (unit/integration/e2e)  
-  <img src="https://media.giphy.com/media/l0MYwONBGDS7aPGOk/giphy.gif" alt="testing" width="120" style="vertical-align:middle;"/>
+* **Zero-Inference Rule:** Dados não devem ser adivinhados, devem ser medidos.
+* **Documentation as Code:** A documentação vive junto com o código, versionada e imutável.
+* **Safety Critical:** Em automação e IA, um erro de software pode ter consequências físicas. O código deve ser defensivo.
 
-### Banco de Dados & Dados
-- Modelagem relacional • Índices • EXPLAIN/ANALYZE  
-  <img src="https://media.giphy.com/media/3orieR0hH5u6k2v0s8/giphy.gif" alt="db chart" width="120" style="vertical-align:middle;"/>
-- Pipelines ETL/ELT e qualidade de dados  
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="data pipeline" width="120" style="vertical-align:middle;"/>
-
-### Arquitetura & DevOps
-- Docker • GitHub Actions • Deploy automatizado  
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="docker" width="120" style="vertical-align:middle;"/>
-- Observabilidade • Logs • Tracing  
-  <img src="https://media.giphy.com/media/xUPGcl3ijl8wO3vQwU/giphy.gif" alt="monitoring" width="120" style="vertical-align:middle;"/>
-
----
-
-## 🧰 Stack (faça edits conforme preferir)
-**Linguagens:** `TypeScript`, `Python`, `SQL`  
-**Backend:** `Node.js`, `FastAPI`, `NestJS`  
-**DB:** `Postgres`, `Redis`, `MongoDB`  
-**Infra:** `Docker`, `GitHub Actions`, `AWS/GCP`
-
-<p>
-  <img src="https://media.giphy.com/media/3o6ZsZ2hW6hQxgWbqY/giphy.gif" alt="stack icons" width="220" />
-</p>
-
----
-
-## 🎭 Humor & easter eggs (porque a vida precisa disso)
-
-- Gato dev:  
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat coding" width="160"/>
-
-- Café e commits:  
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="coffee coding" width="160"/>
-
-- Dança de vitória quando um deploy funciona:  
-  <img src="https://media.giphy.com/media/1X7hQ3A3TqfPq/giphy.gif" alt="victory dance" width="160"/>
-
-- Confete espacial (clima startup rocket):  
-  <img src="https://media.giphy.com/media/yoJC2Olx0ekMy2n1p6/giphy.gif" alt="space confetti" width="160"/>
-
----
-
-## 🔁 Status atual (pequenas animações úteis)
-- Atualmente: <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="typing" width="60"/> _Coding / Refactor_  
-- Estado mental: <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" alt="brainstorm" width="60"/> _Brainstorming_
-
----
-
-## 📈 GitHub Stats
-> Substitua `SEU_USUARIO` pelo seu username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=merko)
-
----
-
-## 🤝 Contato & colaboração
-
-<p>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" alt="handshake" width="120" style="vertical-align:middle;"/>
-  <span style="margin-left:10px"><strong>Email:</strong> douglasdias.souza@outlook.com • <strong>GitHub:</strong> @douglasdias.souza</span>
-</p>
-
----
-
-## 💡 Dicas finais para deixar ainda melhor
-- **Hospede GIFs no repositório** (`/assets/`) — mais rápido e confiável.  
-- **Varie estilos por seção** (real, retro, minimal, pixel) — como fiz aqui.  
-- **Use GitHub Actions** para trocar GIFs dinamicamente (ex.: GIF “Currently coding” que muda com a branch).  
-- **Badges animados**: use badges estáticos + GIFs ao lado para não poluir o layout.
-
----
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZWN4OG15Mm14Z214OW14Z214OW14Z214OW14Z214OW14ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="80px" alt="Footer Divider">
+  <p>Available for robust collaborations & challenging engineering roles.</p>
+</div>
