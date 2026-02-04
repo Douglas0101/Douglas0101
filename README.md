@@ -74,24 +74,28 @@ Um *monorepo* que materializa minha filosofia de engenharia avançada:
 
 <div align="center">
 
-<!-- Streak: alternativa para evitar problemas de DNS/proxy -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Douglas0101&theme=dark&hide_border=true&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="GitHub Streak" />
+<!-- Imagens locais em assets/analytics (sem requisições externas) -->
+<!-- Usamos arquivos locais para evitar falhas por serviços externos / bloqueios de rede -->
+<img src="assets/analytics/github-streak.svg" alt="GitHub Streak" />
 
 <br/><br/>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- GitHub stats -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745&text_color=FFFFFF&include_all_commits=false&count_private=false"
-       alt="Github Stats" />
-
-  <!-- Top langs -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Douglas0101&layout=compact&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF&langs_count=8"
-       alt="Top Langs" />
+  <img height="180em" src="assets/analytics/github-stats.svg" alt="Github Stats" />
+  <img height="180em" src="assets/analytics/top-langs.svg" alt="Top Langs" />
 </div>
 
 </div>
+
+---
+
+**Fallback textual (quando imagens não forem desejadas):**
+
+- **GitHub Streak:** —
+- **Repositórios:** —
+- **Topo de linguagens:** Python, Rust, TypeScript
+
+> Observação: os SVGs locais estão em `assets/analytics/`. Eles são estáticos por padrão — você pode substituí-los manualmente ou usar o script + Action abaixo para atualizá-los automaticamente com dados reais.
 
 ---
 <div align="center">
