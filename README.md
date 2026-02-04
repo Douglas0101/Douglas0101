@@ -1,99 +1,79 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNsZzl6anh4MjV4aHl6OW16Z214OW14Z214OW14Z214OW14ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWs1f7748Q0uY/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 12px; border: 1px solid #30363d;" alt="Neural Data Stream">
+
+# Olá, eu sou o Douglas 👋
+### VP of AI Engineering & Strategy | Arquiteto de Soluções de ML | Engenheiro Full Stack
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-d-souza/)](https://www.linkedin.com/in/douglas-d-souza/)
+[![Mail Badge](https://img.shields.io/badge/-douglas.ultimatesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.ultimatesouza@gmail.com)](mailto:douglas.ultimatesouza@gmail.com)
+
+<p align="center">
+  <em>"Construindo a ponte entre a pesquisa avançada em IA e sistemas de produção industrial seguros, observáveis e escaláveis."</em>
+</p>
+
 </div>
-
-<div align="center">
-  <h1 style="font-size: 3.2em; margin-bottom: 0; letter-spacing: -1px;">Douglas | Principal AI Engineer</h1>
-  <h3 style="font-weight: normal; margin-top: 5px; color: #8b949e;">Bridging Industrial OT & Advanced IT Architectures</h3>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Architecting+at+Project+Vitruviano;Rust+%2B+Python+Interoperability;High-Throughput+Telemetry+Pipelines;Industrial+Automation+%26+Control+Systems" alt="Typing SVG" />
-  </a>
-
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/douglas-d-souza/" target="_blank">
-      <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-    </a>
-    <a href="mailto:douglas.ultimatesouza@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
-    </a>
-  </div>
-</div>
-
-<hr style="border-color: #30363d; background-color: #30363d; height: 1px; border: 0; margin: 30px 0;" />
-
-### ⚡ Executive Summary
-
-Engenheiro sênior focado na **convergência de Sistemas Críticos (OT) e Inteligência Artificial (IT)**. Minha expertise reside em traduzir a confiabilidade rígida da automação industrial para a flexibilidade escalável de ecossistemas de Deep Learning.
-
-Atualmente, lidero a arquitetura do **Projeto Vitruviano**, uma plataforma de telemetria de próxima geração que prioriza *Type-Safety* (via Zod/TypeScript), *Memory-Safety* (via Rust) e *Determinismo* em pipelines de inferência. Meu objetivo é aplicar estas metodologias em infraestruturas de missão crítica nos EUA.
 
 ---
 
-### 🏛️ Engineering Arsenal
+## 🚀 Sobre Mim
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6Znk1Z256Znk1Z256Znk1Z256Znk1Z256Znk1Z256ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QvQMqX2J7sQ59M4I99/giphy.gif" width="60" alt="Brain Icon" /><br>
-      <b>AI Core & ML</b>
-    </td>
-    <td align="left">
-      <code>PyTorch</code> <code>AutoGluon</code> <code>Model Lineage</code> <code>ECE Calibration</code><br>
-      <i>Foco: Pipelines de inferência determinísticos, Calibração de Probabilidade e Explicabilidade (GradCAM).</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhmZWN4OG15Mm14Z214OW14Z214OW14Z214OW14ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13GVbJ21b7Yny/giphy.gif" width="60" alt="Gear Icon" /><br>
-      <b>Systems Eng.</b>
-    </td>
-    <td align="left">
-      <code>Rust</code> <code>Python 3.11+</code> <code>FFI Bindings</code> <code>Hexagonal Arch</code><br>
-      <i>Foco: Performance "Zero-Cost Abstractions", segurança de memória com Rust Crypto e design resiliente.</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" alt="Database Icon" /><br>
-      <b>Data Strategy</b>
-    </td>
-    <td align="left">
-      <code>ClickHouse</code> <code>Kafka</code> <code>Zod Validation</code> <code>OLAP</code><br>
-      <i>Foco: Ingestão de alta volumetria e validação estrita de esquemas na borda (Edge) e no núcleo (Core).</i>
-    </td>
-  </tr>
-</table>
+Sou um Engenheiro apaixonado por **Automação Industrial** e **Inteligência Artificial**, com vasta experiência na criação de ecossistemas tecnológicos complexos. Meu foco atual é a engenharia de precisão aplicada a MLOps, onde combino rigor matemático, segurança cibernética e arquitetura de software de ponta para entregar soluções que vão muito além do "modelo treinado".
+
+Minha abordagem, inspirada no conceito **Vitruviano**, busca o equilíbrio perfeito entre **utilidade (Firmitas)**, **beleza de código (Venustas)** e **funcionalidade (Utilitas)**.
 
 ---
 
-### 🔬 Featured Architecture: **Project Vitruviano**
+## 🛠️ Arsenal Técnico
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6Znk1Z256Znk1Z256Znk1Z256Znk1Z256Znk1Z256ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UouuOU8vxFqzm/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px; border: 1px solid #30363d;" alt="AI Analysis Visualization">
-</div>
+Minha stack é desenhada para alta performance e segurança, cobrindo desde a ingestão de dados até a inferência em produção.
 
-> *Uma plataforma de telemetria "Safety-Critical" projetada para ambientes onde a falha não é uma opção.*
+### 🧠 Machine Learning & AI Engineering
+* **Core:** Python, PyTorch, AutoGluon.
+* **Visão Computacional:** Classificação Avançada (NIH Chest X-ray), GradCAM, Heatmap Generation.
+* **Model Reliability:** Calibração de Modelos (Temperature Scaling, Isotonic Regression), Análise de Incerteza, Rastreamento de Experimentos.
+* **Loss Functions:** Implementação de funções complexas (Focal Loss, Asymmetric Loss) para dados desbalanceados.
 
-O Vitruviano demonstra a fusão de **Engenharia de Software Robusta** com **Data Science Avançada**:
+### 🏗️ MLOps & Infraestrutura
+* **Containerização:** Docker, Docker Compose (Otimização de Imagens para Produção/Serving).
+* **CI/CD:** GitHub Actions (Pipelines de Teste, Linting, Segurança).
+* **Observabilidade:** Telemetria Unificada (Traces, Metrics, Logs), Grafana, Prometheus, Integração com ClickHouse.
+* **Qualidade de Código:** Hooks de pre-commit, Flake8, Tipagem Estática Rigorosa.
 
-| Componente | Detalhe Técnico & Implementação |
-| :--- | :--- |
-| **Telemetry Gateway** | Microsserviço de alta vazão com validação de esquema estrita via **Zod** e buffers tipados. |
-| **Hybrid Security** | Módulo de criptografia implementado em **Rust** (`rust_crypto`), invocado via Python FFI para máxima performance e segurança de memória. |
-| **Data Integrity** | Auditoria automatizada de *data lineage* e baterias de *smoke tests* contínuos (`smoke_test_telemetry.py`). |
-| **Visualization** | Dashboards reativos em **Next.js** consumindo agregações do **ClickHouse** para insights em tempo real. |
+### 🔐 Security & Data Governance (SecOps)
+* **Engenharia de Segurança:** Criptografia Avançada (Rust Crypto integration), Gestão de Chaves, Auditoria de Integridade.
+* **Compliance:** Anonimização de Dados (Pseudonymization), Scanner de Vulnerabilidades (Bandit), Threat Modeling.
+
+### 💻 Full Stack & Dados
+* **Frontend:** TypeScript, Next.js, React, TailwindCSS, Zod (Validação de Schemas).
+* **Runtime:** Bun (Foco em performance).
+* **Data Engineering:** ClickHouse (Analytics), Kafka (Streaming), Redis (Caching), SQL Optimization.
 
 ---
 
-### 📊 Engineering Metrics
+## 🏆 Projeto Destaque: Project Vitruviano
+
+Uma plataforma de telemetria e inferência de IA de nível empresarial, projetada para diagnósticos médicos por imagem com total auditabilidade.
+
+* **Arquitetura:** Design Hexagonal e Domain-Driven Design (DDD).
+* **Destaques:**
+    * Pipeline de calibração de probabilidade para confiança clínica.
+    * Gateway de telemetria de alto throughput em **Bun/TypeScript**.
+    * Dashboards de Governança e Saúde Semântica.
+    * Implementação híbrida Python/Rust para segurança crítica.
+
+---
+
+## 📈 Metodologia de Trabalho
+
+Meus repositórios refletem padrões estritos de engenharia:
+
+1.  **Documentation as Code:** Documentação técnica viva junto ao código.
+2.  **Test-Driven:** Cobertura extensiva (Unitários, Integração, Stress Tests).
+3.  **Semantic Versioning:** Controle rigoroso de versões e dependências.
+4.  **Performance First:** Profiling de GPU e otimização de memória.
+
+---
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&text_color=b0b6c2&icon_color=38BDF8" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=38BDF8&text_color=b0b6c2&icon_color=38BDF8" />
-</div>
-
-<div align="center">
-  <br>
-  <i>"Precision in code implies precision in thought. Zero inference, total validation."</i>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=dark"/>
 </div>
