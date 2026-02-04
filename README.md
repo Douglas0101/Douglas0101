@@ -1,79 +1,78 @@
 <div align="center">
 
-# Olá, eu sou o Douglas 👋
-### VP of AI Engineering & Strategy | Arquiteto de Soluções de ML | Engenheiro Full Stack
+# Douglas D. Souza
+### AI Engineering Strategy | MLOps Architect | Full Stack Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-d-souza/)](https://www.linkedin.com/in/douglas-d-souza/)
-[![Mail Badge](https://img.shields.io/badge/-douglas.ultimatesouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.ultimatesouza@gmail.com)](mailto:douglas.ultimatesouza@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-d-souza/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.ultimatesouza@gmail.com)
+
+<br />
 
 <p align="center">
-  <em>"Construindo a ponte entre a pesquisa avançada em IA e sistemas de produção industrial seguros, observáveis e escaláveis."</em>
+  <b>"Engenharia é a arte de equilibrar precisão matemática, segurança cibernética e arquitetura escalável."</b>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Perfil Profissional
 
-Sou um Engenheiro apaixonado por **Automação Industrial** e **Inteligência Artificial**, com vasta experiência na criação de ecossistemas tecnológicos complexos. Meu foco atual é a engenharia de precisão aplicada a MLOps, onde combino rigor matemático, segurança cibernética e arquitetura de software de ponta para entregar soluções que vão muito além do "modelo treinado".
+Minha atuação foca na convergência entre **Pesquisa em IA** e **Sistemas de Produção Críticos**. Meus projetos não entregam apenas modelos, mas ecossistemas completos de inferência, observabilidade e governança de dados, construídos sobre pilares de **Security-by-Design** e **Arquitetura Hexagonal**.
 
-Minha abordagem, inspirada no conceito **Vitruviano**, busca o equilíbrio perfeito entre **utilidade (Firmitas)**, **beleza de código (Venustas)** e **funcionalidade (Utilitas)**.
-
----
-
-## 🛠️ Arsenal Técnico
-
-Minha stack é desenhada para alta performance e segurança, cobrindo desde a ingestão de dados até a inferência em produção.
-
-### 🧠 Machine Learning & AI Engineering
-* **Core:** Python, PyTorch, AutoGluon.
-* **Visão Computacional:** Classificação Avançada (NIH Chest X-ray), GradCAM, Heatmap Generation.
-* **Model Reliability:** Calibração de Modelos (Temperature Scaling, Isotonic Regression), Análise de Incerteza, Rastreamento de Experimentos.
-* **Loss Functions:** Implementação de funções complexas (Focal Loss, Asymmetric Loss) para dados desbalanceados.
-
-### 🏗️ MLOps & Infraestrutura
-* **Containerização:** Docker, Docker Compose (Otimização de Imagens para Produção/Serving).
-* **CI/CD:** GitHub Actions (Pipelines de Teste, Linting, Segurança).
-* **Observabilidade:** Telemetria Unificada (Traces, Metrics, Logs), Grafana, Prometheus, Integração com ClickHouse.
-* **Qualidade de Código:** Hooks de pre-commit, Flake8, Tipagem Estática Rigorosa.
-
-### 🔐 Security & Data Governance (SecOps)
-* **Engenharia de Segurança:** Criptografia Avançada (Rust Crypto integration), Gestão de Chaves, Auditoria de Integridade.
-* **Compliance:** Anonimização de Dados (Pseudonymization), Scanner de Vulnerabilidades (Bandit), Threat Modeling.
-
-### 💻 Full Stack & Dados
-* **Frontend:** TypeScript, Next.js, React, TailwindCSS, Zod (Validação de Schemas).
-* **Runtime:** Bun (Foco em performance).
-* **Data Engineering:** ClickHouse (Analytics), Kafka (Streaming), Redis (Caching), SQL Optimization.
+No **Project Vitruviano**, demonstro como orquestrar pipelines de *Deep Learning* (Visão Computacional Médica) com backends de alta performance em *Bun* e *Rust*, garantindo auditabilidade e compliance em nível corporativo.
 
 ---
 
-## 🏆 Projeto Destaque: Project Vitruviano
+## 🏛️ Engenharia & Stack Tecnológica
 
-Uma plataforma de telemetria e inferência de IA de nível empresarial, projetada para diagnósticos médicos por imagem com total auditabilidade.
+Baseado na análise profunda dos meus repositórios, esta é a stack de produção que utilizo:
 
-* **Arquitetura:** Design Hexagonal e Domain-Driven Design (DDD).
-* **Destaques:**
-    * Pipeline de calibração de probabilidade para confiança clínica.
-    * Gateway de telemetria de alto throughput em **Bun/TypeScript**.
-    * Dashboards de Governança e Saúde Semântica.
-    * Implementação híbrida Python/Rust para segurança crítica.
+### 🧠 AI & Data Science Core
+* **Deep Learning:** PyTorch, AutoGluon, TorchVision (ResNet, DenseNet).
+* **Explainability (XAI):** GradCAM, Heatmap Generation para diagnósticos médicos.
+* **Model Reliability:** Calibração de Probabilidade (Temperature Scaling), Análise de Incerteza (ECE).
+* **Training Loops:** Callbacks customizados, Checkpointing atômico, Mixed Precision Training.
+
+### 🛡️ SecOps & Alta Performance
+* **Systems Programming:** Integração Híbrida **Python/Rust** (via `pyo3`/`maturin`) para criptografia e hot-paths.
+* **Security:** Criptografia de ponta a ponta, Auditoria de Integridade (Hashing), Scanners de Vulnerabilidade (Bandit).
+* **Runtime:** **Bun** (para microsserviços de telemetria de baixa latência).
+
+### 🏗️ Arquitetura de Software & MLOps
+* **Design Patterns:** Domain-Driven Design (DDD), Arquitetura Hexagonal (Ports & Adapters).
+* **Data Engineering:** ClickHouse (OLAP), Kafka (Streaming), Redis (Caching).
+* **Observabilidade:** Telemetria Unificada (Traces/Metrics), Grafana, Prometheus.
+* **Infraestrutura:** Docker (Multi-stage builds), GitHub Actions (CI/CD pipelines de segurança e linting).
+
+### 💻 Full Stack Interface
+* **Frontend:** Next.js (App Router), React, TypeScript (Strict Mode).
+* **UI/UX:** TailwindCSS, Componentes Acessíveis, Design Responsivo.
+* **Type Safety:** Validação de Schema rigorosa com **Zod**.
 
 ---
 
-## 📈 Metodologia de Trabalho
+## 🚀 Projeto em Destaque
 
-Meus repositórios refletem padrões estritos de engenharia:
+### [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
+*Uma plataforma de nível empresarial para Telemetria de IA e Governança de Modelos.*
 
-1.  **Documentation as Code:** Documentação técnica viva junto ao código.
-2.  **Test-Driven:** Cobertura extensiva (Unitários, Integração, Stress Tests).
-3.  **Semantic Versioning:** Controle rigoroso de versões e dependências.
-4.  **Performance First:** Profiling de GPU e otimização de memória.
+Este repositório é um *monorepo* que exemplifica minha abordagem de engenharia:
+1.  **Gateway de Telemetria:** Microsserviço em Bun/TypeScript processando ingestão de dados em tempo real.
+2.  **Pipeline de Treinamento:** Framework modular em Python para classificação de Raio-X (NIH ChestX-ray) com foco em métricas de calibração.
+3.  **Dashboard de Governança:** Interface Next.js para visualização de *Model Drift* e Saúde Semântica.
+
+---
+
+## 📊 Métricas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+</div>
 
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=dark"/>
+  <sub>Configuração mantida com <b>Infrastructure as Code</b> e padrões <b>SemVer</b>.</sub>
 </div>
