@@ -1,7 +1,14 @@
 <div align="center">
 
 # Douglas D. Souza
+
 ### VP of AI Engineering & Strategy | MLOps Architect | Full Stack Engineer
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=500&lines=Building+Robust+AI+Systems;Architecting+Scalable+MLOps;Crafting+High-Performance+Rust+Code;Deploying+Secure+Industrial+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-d-souza/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.ultimatesouza@gmail.com)
@@ -9,7 +16,7 @@
 <br />
 
 <p align="center">
-  <b>"Construindo a ponte entre a pesquisa avançada em IA e sistemas de produção industrial seguros, observáveis e escaláveis."</b>
+  <b>"Transformando pesquisa complexa em sistemas de produção auditáveis, seguros e de baixa latência."</b>
 </p>
 
 </div>
@@ -18,19 +25,21 @@
 
 ## 👨‍💻 Visão & Engenharia
 
-Minha atuação foca na convergência entre **Pesquisa em IA** e **Sistemas de Produção Críticos**. Não entrego apenas modelos; projeto ecossistemas completos de inferência, observabilidade e governança de dados, alicerçados em **Security-by-Design** e **Arquitetura Hexagonal**.
+Minha atuação foca na convergência crítica entre **Pesquisa em IA** e **Sistemas de Produção Industrial**. Não entrego apenas modelos; projeto ecossistemas vitais de inferência, observabilidade e governança de dados, alicerçados em **Security-by-Design** e **Arquitetura Hexagonal**.
 
-No meu trabalho recente, combino o rigor matemático do *Deep Learning* com a performance de linguagens de sistema como **Rust** e *runtimes* modernos como **Bun**.
+Atualmente, lidero estratégias técnicas onde o rigor matemático do *Deep Learning* encontra a performance "bare-metal" de linguagens como **Rust** e runtimes como **Bun**.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <p><i>Arquitetura de Alta Performance • Telemetria Distribuída • Engenharia Híbrida</i></p>
+  
+  <p><i>Stack de Produção Híbrida (Python + Rust)</i></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,rust,ts,bun,react,nextjs,docker,grafana,kafka,redis,postgres,linux&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,bun,react,nextjs,docker,kubernetes,grafana,kafka,redis,postgres,linux,aws,gcp&perline=15&theme=dark" />
   </a>
+
 </div>
 
 <br/>
@@ -38,9 +47,9 @@ No meu trabalho recente, combino o rigor matemático do *Deep Learning* com a pe
 ### 🧠 AI & Data Science Core
 * **Deep Learning:** PyTorch, AutoGluon, TorchVision (ResNet, DenseNet).
 * **Confiabilidade:** Calibração de Probabilidade (Temperature Scaling) e Análise de Incerteza (ECE).
-* **XAI:** GradCAM e geração de Heatmaps para diagnósticos médicos.
+* **XAI:** GradCAM e geração de Heatmaps para diagnósticos médicos explicáveis.
 
-### 🛡️ SecOps & Systems
+### 🛡️ SecOps & Systems Programming
 * **Híbrido:** Integração **Python/Rust** (via `pyo3`) para criptografia crítica e *hot-paths*.
 * **Segurança:** Criptografia ponta a ponta, Auditoria de Integridade e *Hardening*.
 * **Runtime:** **Bun** para gateways de telemetria de ultra-baixa latência.
@@ -52,16 +61,30 @@ No meu trabalho recente, combino o rigor matemático do *Deep Learning* com a pe
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque: [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
 
-### [Project Vitruviano](https://github.com/Douglas0101/project-vitruviano)
 *Plataforma Enterprise de Telemetria de IA e Governança de Modelos.*
 
-Um *monorepo* que materializa minha filosofia de engenharia:
+Um *monorepo* que materializa minha filosofia de engenharia avançada:
 1.  **Gateway de Telemetria:** Microsserviço em **Bun/TypeScript** processando ingestão massiva.
 2.  **Motor de Inferência:** Pipeline modular em **Python/PyTorch** para classificação médica (NIH ChestX-ray).
 3.  **Segurança Híbrida:** Módulos de criptografia de alta performance escritos em **Rust**.
 4.  **Governança:** Dashboards em **Next.js** para monitoramento de *Model Drift* e Saúde Semântica.
+
+---
+
+## 📊 Analytics em Tempo Real
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Douglas0101&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=28A745&fire=28A745&currStreakLabel=28A745" alt="Douglas Streak" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas0101&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=28A745&icon_color=28A745"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas0101&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=28A745&text_color=FFFFFF"/>
+
+</div>
 
 ---
 
